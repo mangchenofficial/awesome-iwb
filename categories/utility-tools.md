@@ -16,6 +16,7 @@
 | 10 | **Class_Notices** | 停更 | [EnderWolf006](https://github.com/EnderWolf006) | JavaScript |
 | 11 | **CJ's Forum** | 活跃 | [CJH](https://github.com/cjhdevact) | C# |
 | 12 | **ClassDown** | 活跃 | [CJH](https://github.com/cjhdevact) | C# |
+| 13 | **ENAL 希沃易登** | 活跃 | [Xiaocuitang](https://iceawa.com/) | EPL |
 
 ---
 
@@ -224,6 +225,28 @@ EnderWolf006 开发的班级通知公告工具。已停更。
 |------|-----|
 | GitHub | [cjhdevact/ClassDown](https://github.com/cjhdevact/ClassDown) |
 | 开发者 | [![avatar](https://images.weserv.nl/?url=github.com/cjhdevact.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff&width=20)](https://github.com/cjhdevact) [CJH](https://github.com/cjhdevact) |
+
+---
+
+### ENAL 希沃易登
+
+<img src="./images/ENAL.png" height="56"/>
+
+![专有软件](https://img.shields.io/badge/类型-专有软件-red)
+
+希沃白板的自动登录插件，通过替代 EasiAgent 来实现多账号自动免密登录。
+
+⚠️ **注意**：该软件为闭源软件，使用易语言开发，UI 体验较奇怪。如果你对单点登录有需求，建议期待 [EasiAuth](https://github.com/Awesome-Iwb/EasiAuth)。
+
+🏷 **关键词**：<br/>
+![自动登录](https://img.shields.io/badge/自动登录-white)
+![希沃白板](https://img.shields.io/badge/希沃白板-white)
+![多账号](https://img.shields.io/badge/多账号-white)
+
+| 属性 | 值 |
+|------|-----|
+| 下载 | [file.iceawa.com/iceawa-onedrive/ENAL/Ver](https://file.iceawa.com/iceawa-onedrive/ENAL/Ver) |
+| 开发者 | [Xiaocuitang](https://iceawa.com/) |
 
 ---
 
