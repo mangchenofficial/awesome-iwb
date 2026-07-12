@@ -36,24 +36,12 @@
 > 我们将不再严格遵循「仅收录开源软件」的规则，但是我们也会确保收录上架的软件不是商业付费软件。也就是说，你能在这个列表中看到商业免费软件和非开源软件。
 
 > [!IMPORTANT]
-> 使用电脑端的现代浏览器浏览本页面以获得最佳阅读体验。使用 GitHub 手机客户端浏览可能会导致乱码！
-
----
-
-## 💻 &nbsp;&nbsp; IwbPark
-
-<img src="./images/aiwblogo/IwbPark.png" height="64">
-
-「IwbPark」收录了用于班级教学一体机/数字白板/班班通的实用软件，涵盖课表/看板/随机点名/小工具/白板等多类软件，**且绝大多数软件均开源/完全免费**，帮助您快速拿捏班级一体机，让日常教学体验变得更加轻松愉快。
-
-![上架总数](https://img.shields.io/badge/上架软件总数-75个-red)
-![收录总数](https://img.shields.io/badge/收录软件总数-102个-blue)
+> 使用电脑端的现代浏览器浏览本页面以获得最佳阅读体验。使用 GitHub 手机客户端浏览可能会导致乱码！如果您更喜欢简约的排版风格，请点击浏览 [简洁排版模式](./README.legacy.md) 。
 
 ---
 
 ## 📋 目录
 
-- [💻 IwbPark](#-iwbpark)
 - [🏆 项目总榜](#-项目总榜)
 - [📂 分类导航](#-分类导航)
 - [📖 文档](#-文档)
@@ -87,7 +75,7 @@
 
 **代表项目**：[Ink Canvas Plus](https://github.com/clover-yan/Ink-Canvas-Plus) · [智绘教 Inkeys](https://github.com/Alan-CRL/Inkeys) · [ICC-CE](https://github.com/InkCanvasForClass/community) · [Ink Canvas Artistry](https://github.com/InkCanvas/Ink-Canvas-Artistry) · [ppInk](https://github.com/pubpub-zz/ppInk)
 <br/>
-**共 14 个项目** · [查看全部 →](./categories/screen-whiteboard.md)
+**共 13 个项目** · [查看全部 →](./categories/screen-whiteboard.md)
 
 ---
 
@@ -96,7 +84,7 @@
 
 **代表项目**：[ClassIsland](https://github.com/ClassIsland/ClassIsland) · [Class Widgets](https://github.com/RinLit-233-shiroko/Class-Widgets) · [ZongziTEK 黑板贴](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker) · [Ris_ClassTool](https://github.com/Ris-Soft/Ris_ClassTool) · [Sticky-attention](https://github.com/Sticky-attention/Sticky-attention)
 <br/>
-**共 22 个项目** · [查看全部 →](./categories/schedule-dashboard.md)
+**共 21 个项目** · [查看全部 →](./categories/schedule-dashboard.md)
 
 ---
 
@@ -114,7 +102,7 @@
 
 **代表项目**：[育才随机抽选](https://sr-studio.cn/) · [ClassIsland 随机点名插件](https://github.com/ClassIsland/ClassIsland)
 <br/>
-**共 6 个项目** · [查看全部 →](./categories/random-pickers.md)
+**共 4 个项目** · [查看全部 →](./categories/random-pickers.md)
 
 ---
 
@@ -123,7 +111,7 @@
 
 **代表项目**：[Optimize-V](https://github.com/cjhdevact/Optimize-V) · [Smart_School_Manager](https://sr-studio.cn/) · [Edge Modifier](https://github.com/Candlest/Edge-Modifier)
 <br/>
-**共 13 个项目** · [查看全部 →](./categories/utility-tools.md)
+**共 12 个项目** · [查看全部 →](./categories/utility-tools.md)
 
 ---
 
@@ -146,20 +134,6 @@
 
 ---
 
-## 🔗 友情链接
-
-- <image src="https://github.com/ClassIsland.png" height="18"/> **[ClassIsland Hub](https://hub.classisland.tech/)** - 展示亿些 ClassIsland 交流群/频道里面的乐子。
-- **[RinlitHub](https://mcableblank.github.io/RinlitHub/)** - Class-Widgets 开发者的Hub，收集 CW 交流群里面的乐子。
-- <image src="./images/misaka-space-icon.png" height="18"/> **[电教委入门指南](https://tutorial.misaka.space/)** - 从小白到高手，轻松玩转班级一体机。
-- <image src="./images/misaka-space-icon.png" height="18"/> **[seewoGeekWiki](https://wiki.misaka.space/)** - 希沃业绩售后冲击部官方 Wiki。
-- **[希沃折腾手册](https://kdocs.cn/l/coHT3CUcoQDV)** - 希沃一体机折腾手册，整理了许多一体机折腾的教程。
-
-## 👋 同类项目推荐
-
-[![Jursin/Awesome-Class-Softwares](https://github-readme-stats.vercel.app/api/pin/?username=Jursin&repo=Awesome-Class-Softwares&show_owner=true)](https://github.com/Jursin/Awesome-Class-Softwares)
-
----
-
 ## 🤝 贡献指南
 
 欢迎为本项目贡献！无论是提交新的软件项目、修复 Bug、改进文档，还是提出建议，我们都非常欢迎。
@@ -169,8 +143,6 @@
 - 💬 **讨论交流**：欢迎加入社区群组讨论
 
 ---
-
-<p xmlns:cc="http://creativecommons.org/ns#" >本作品已获得 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0 许可<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
 <div align="center">
 

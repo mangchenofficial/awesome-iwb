@@ -25,13 +25,10 @@
 | 19 | **CountDownControl** | 活跃 | [CJH](https://github.com/cjhdevact) | C# |
 | 20 | **LockTime** | 活跃 | [CJH](https://github.com/cjhdevact) | C# |
 | 21 | **UsefulControl** | 活跃 | [CJH](https://github.com/cjhdevact) | C# |
-| 22 | **ExtraIsland** | 活跃 | [LiPolymer](https://github.com/LiPolymer) | C# |
 
 ---
 
 ### ClassIsland
-
-<img alt="aiwb-logo" src="./images/software_icons/classisland-icon.png" height="64">
 
 ![banner](https://github.com/user-attachments/assets/a815dd7d-8343-4da5-aee4-3f754aa297e4)
 
@@ -327,8 +324,6 @@
 
 ### TimerIn
 
-<img src="./images/timerin.png" width="56" height="56"/>
-
 ![活跃](https://img.shields.io/badge/状态-活跃-green)
 ![闭源](https://img.shields.io/badge/类型-闭源-orange)
 
@@ -447,8 +442,6 @@ HelloWRC 开发的作业展示工具。已停更，由 jizilin6732 接手为 Sti
 
 ### CountDownControl
 
-<img src="./images/countdowncontrol-icon.png" height="56" width="56"/>
-
 ![活跃](https://img.shields.io/badge/状态-活跃-green)
 
 倒计时工具，支持自定义主题。
@@ -487,8 +480,6 @@ HelloWRC 开发的作业展示工具。已停更，由 jizilin6732 接手为 Sti
 
 ### UsefulControl
 
-<img src="./images/usefulcontrol-icon.png" height="56" width="56"/>
-
 ![活跃](https://img.shields.io/badge/状态-活跃-green)
 
 大屏实用工具合集，为希沃一体机等大屏设备优化。
@@ -502,35 +493,6 @@ HelloWRC 开发的作业展示工具。已停更，由 jizilin6732 接手为 Sti
 |------|-----|
 | GitHub | [cjhdevact/UsefulControl](https://github.com/cjhdevact/UsefulControl) |
 | 开发者 | [![avatar](https://images.weserv.nl/?url=github.com/cjhdevact.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff&width=20)](https://github.com/cjhdevact) [CJH](https://github.com/cjhdevact) |
-
----
-
-### ExtraIsland
-
-<img src="./images/extraisland-icon.png" width="56" height="56"/>
-
-![banner](./banner/extraisland.png)
-
-[![stars](https://img.shields.io/github/stars/LiPolymer/ExtraIsland?style=flat&color=red)](https://github.com/LiPolymer/ExtraIsland/stargazers)
-[![GitHub License](https://img.shields.io/github/license/LiPolymer/ExtraIsland?color=red)](https://github.com/LiPolymer/ExtraIsland)
-
-ExtraIsland 是一个 ClassIsland 插件，为 ClassIsland 提供了一些小小的扩充功能，比如流畅时钟、更好的倒计时、每日古诗、一言插件等。
-
-🏷 **关键词**：<br/>
-![ClassIsland](https://img.shields.io/badge/ClassIsland-white)
-![CI插件](https://img.shields.io/badge/CI插件-white)
-![动画时钟](https://img.shields.io/badge/动画时钟-white)
-![倒计日](https://img.shields.io/badge/倒计日-white)
-![每日古诗](https://img.shields.io/badge/每日古诗-white)
-
-💬 **Douxiba 锐评**：目前 ClassIsland 功能最全的插件，非它莫属。
-💬 **Makitoid 锐评**：如果你觉得 ClassIsland 功能不能满足你的需求，不妨把它安上。
-
-| 属性 | 值 |
-|------|-----|
-| <img src="images/github-icon.svg" width="18" height="18"> GitHub | [LiPolymer/ExtraIsland](https://github.com/LiPolymer/ExtraIsland) |
-| <img src="images/gitlab-icon.svg" width="18" height="18"> GitLab | [LiPolymer/ExtraIsland](https://gitlab.com/LiPolymer/ExtraIsland) |
-| 开发者 | [![avatar](https://images.weserv.nl/?url=github.com/LiPolymer.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff&width=20)](https://github.com/LiPolymer) [LiPolymer](https://github.com/LiPolymer) |
 
 ---
 

@@ -80,8 +80,6 @@ Ink Canvas Plus 是一款由 Clover Yan 维护、复刻自 WXRIW/Ink Canvas 的 
 ![停更](https://img.shields.io/badge/状态-停更-red)
 ![hard-fork](https://img.shields.io/badge/Fork类型-hard--fork-purple) 复刻自 WXRIW/Ink-Canvas
 
-> <img src="./images/fork-icon.svg" width="18" height="18"/> forked from <a href="https://github.com/WXRIW/Ink-Canvas/">WXRIW/Ink-Canvas</a>
-
 Ink Canvas 的优化版本，添加了自动收纳、自动查杀、荧光笔、图片插入等功能，并优化了使用体验，使其更适合课堂授课使用。目前已停更。
 
 🏷 **关键词**（来自 `_data/project.json`）：<br/>
@@ -144,32 +142,14 @@ Ink Canvas 的优化版本，添加了自动收纳、自动查杀、荧光笔、
 
 💬 **Douxiba 锐评**：用下来总体体验是不错的，自带了屏幕冻结这个好功能，还有桌面画板悬浮窗拦截，以及各种强制置顶，多虚拟桌面 Pin，多显示器适配等，这些功能都很不错，甚至有些都是被 ICC 给借鉴过去了的功能，比较推荐使用。
 
-<a href="https://github.com/Alan-CRL/Inkeys/releases">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./images/download/github-dark.svg">
-      <img alt="github" src="./images/download/github-light.svg" height="48">
-    </picture>
-</a>
-<a href="https://www.123pan.com/s/duk9-n4dAd.html">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./images/download/123yunpan-dark.svg">
-      <img alt="123pan" src="./images/download/123yunpan-light.svg" height="48">
-    </picture>
-</a>
-<a href="https://t.me/s/awesomeiwb?q=%23Inkeys">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./images/download/telegram-dark.svg">
-      <img alt="telegram" src="./images/download/telegram-light.svg" height="48">
-    </picture>
-</a>
-
 | 属性 | 值 |
 |------|-----|
-| <img src="images/bilibili-icon.svg" width="18" height="18"> B站 | [BV1Tz421z72e](https://www.bilibili.com/video/BV1Tz421z72e/) |
 | GitHub | [Alan-CRL/Inkeys](https://github.com/Alan-CRL/Inkeys) |
 | 官网 | [inkeys.top](https://www.inkeys.top/) |
 | 开发者 | [![avatar](https://images.weserv.nl/?url=github.com/Alan-CRL.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff&width=20)](https://github.com/Alan-CRL) [Alan-CRL](https://github.com/Alan-CRL) |
 | QQ群 | 618720802 |
+| 下载 | [GitHub Releases](https://github.com/Alan-CRL/Inkeys/releases) \| [123云盘](https://www.123pan.com/s/duk9-n4dAd.html) |
+| B站 | [BV1Tz421z72e](https://www.bilibili.com/video/BV1Tz421z72e/) |
 
 ---
 
@@ -332,8 +312,6 @@ ICC 的重制版本，针对原版进行了界面优化和功能增强。
 
 ![停更](https://img.shields.io/badge/状态-停更-red)
 ![soft-fork](https://img.shields.io/badge/Fork类型-soft--fork-purple) 复刻自 geovens/gInk
-
-> <img src="./images/fork-icon.svg" width="18" height="18"/> forked from [geovens/gInk](https://github.com/geovens/gInk)
 
 一款用户友好的 Windows 屏幕批注软件，兼容鼠标、触屏和绘图板（含压感）。源自 gInk，提供了许多新功能，设计秉承简洁理念，确保演示过程中不分散注意力。
 
@@ -515,33 +493,6 @@ ICC 的重制版本，针对原版进行了界面优化和功能增强。
 | GitHub | [wwcrdrvf6u/ShowWrite](https://github.com/wwcrdrvf6u/ShowWrite) |
 | 开发者 | [![avatar](https://images.weserv.nl/?url=github.com/wwcrdrvf6u.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff&width=20)](https://github.com/wwcrdrvf6u) [wwcrdrvf6u](https://github.com/wwcrdrvf6u) |
 | QQ群 | 1051061830 |
-
----
-
-### Ink Canvas（原版 · 已停更）
-
-<img src="https://github.com/clover-yan/Ink-Canvas-Plus/raw/master/Ink%20Canvas/Resources/InkCanvas.png?raw=true" width="56" height="56"/>
-
-![停更](https://img.shields.io/badge/状态-停更-red)
-[![stars](https://img.shields.io/github/stars/WXRIW/Ink-Canvas?style=flat&color=red)](https://github.com/WXRIW/Ink-Canvas/stargazers)
-[![GitHub License](https://img.shields.io/github/license/WXRIW/Ink-Canvas?color=red)](https://github.com/WXRIW/Ink-Canvas)
-
-Ink Canvas 画板是一款轻量级画板软件，基于 WPF/C#，针对希沃一体机进行了特别优化。IC 已停更，建议使用其衍生版本（如 Ink Canvas Plus）。
-
-🏷 **关键词**：<br/>
-![屏幕批注](https://img.shields.io/badge/屏幕批注-white)
-![屏幕画板](https://img.shields.io/badge/屏幕画板-white)
-![Ink Canvas](https://img.shields.io/badge/Ink_Canvas-white)
-
-💬 **Dubi906w 锐评**：某种意义上来说，如果你想要一个纯粹的屏幕画板，IC 可以是你的选择之一，同时它的诞生，也才有了后面 ICA 和 ICC 的诞生。如果要在教室里面使用不是很合适。
-
-| 属性 | 值 |
-|------|-----|
-| <img src="images/github-icon.svg" width="18" height="18"> GitHub | [WXRIW/Ink-Canvas](https://github.com/WXRIW/Ink-Canvas/) |
-| <img src="images/github-icon.svg" width="18" height="18"> GitHub 2 | [InkCanvas/Ink-Canvas](https://github.com/InkCanvas/Ink-Canvas/) |
-| <img src="./images/microsoft-store.png" width="19" height="19"> 微软商店 | [WXRIW](https://www.microsoft.com/store/apps/9NXJFDD97XJ3?cid=ghreadme) |
-| 开发者 | [![avatar](https://images.weserv.nl/?url=github.com/WXRIW.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff&width=20)](https://github.com/WXRIW) [WXRIW](https://github.com/WXRIW) |
-| QQ群 | 891913576 |
 
 ---
 
